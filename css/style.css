@@ -343,10 +343,7 @@ body {
     margin-top: 30%;
   }
   .image_content img {
-    height: 260px;
-  }
-  .image_design img {
-    height: auto;
+    height: 280px;
   }
 }
  
