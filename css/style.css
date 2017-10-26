@@ -11,7 +11,7 @@ body {
 
 .first {
   height: 100vh;
-  background-image: url("/first_final-assets/PhotoBackground.png");
+  background-image: url("../first_final-assets/PhotoBackground.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: fixed;
@@ -166,7 +166,7 @@ body {
 .fourth {
   padding-top: 50px;
   padding-bottom: 50px;
-  background-image: url("/first_final-assets/endBackground.png");
+  background-image: url("../first_final-assets/endBackground.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: fixed;
